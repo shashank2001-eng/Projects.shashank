@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+.hr-ec{
+  color:blue;
+  text-align: center;
+  font-size: 39px;
+  margin-left: 350px;
+}
+h4{
+  margin-left: 400px;
+}
+.hr-ef{
+  margin-left: 450px;
+  color:red;
+}
+.viewer{
+  background-color: #fff;
+}
+
